@@ -1,0 +1,33 @@
+E:\Soluciones Visual Studio\TPI_DSI\obj\Debug\TPI_DSI.csproj.AssemblyReference.cache
+E:\Soluciones Visual Studio\TPI_DSI\obj\Debug\TPI_DSI.csproj.SuggestedBindingRedirects.cache
+E:\Soluciones Visual Studio\TPI_DSI\obj\Debug\TPI_DSI.InterfazReserva.resources
+E:\Soluciones Visual Studio\TPI_DSI\obj\Debug\TPI_DSI.Properties.Resources.resources
+E:\Soluciones Visual Studio\TPI_DSI\obj\Debug\TPI_DSI.csproj.GenerateResource.cache
+E:\Soluciones Visual Studio\TPI_DSI\obj\Debug\TPI_DSI.csproj.CoreCompileInputs.cache
+E:\Soluciones Visual Studio\TPI_DSI\bin\Debug\TPI_DSI.exe.config
+E:\Soluciones Visual Studio\TPI_DSI\bin\Debug\TPI_DSI.exe
+E:\Soluciones Visual Studio\TPI_DSI\bin\Debug\TPI_DSI.pdb
+E:\Soluciones Visual Studio\TPI_DSI\obj\Debug\TPI_DSI.exe
+E:\Soluciones Visual Studio\TPI_DSI\obj\Debug\TPI_DSI.pdb
+C:\Users\Almir\Desktop\TPI_DSI-20220615T141139Z-001\TPI_DSI\obj\Debug\TPI_DSI.csproj.AssemblyReference.cache
+C:\Users\Almir\Desktop\TPI_DSI-20220615T141139Z-001\TPI_DSI\obj\Debug\TPI_DSI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Almir\Desktop\TPI_DSI-20220615T141139Z-001\TPI_DSI\obj\Debug\TPI_DSI.InterfazReserva.resources
+C:\Users\Almir\Desktop\TPI_DSI-20220615T141139Z-001\TPI_DSI\obj\Debug\TPI_DSI.Properties.Resources.resources
+C:\Users\Almir\Desktop\TPI_DSI-20220615T141139Z-001\TPI_DSI\obj\Debug\TPI_DSI.csproj.GenerateResource.cache
+C:\Users\Almir\Desktop\TPI_DSI-20220615T141139Z-001\TPI_DSI\obj\Debug\TPI_DSI.csproj.CoreCompileInputs.cache
+C:\Users\Almir\Desktop\TPI_DSI-20220615T141139Z-001\TPI_DSI\obj\Debug\TPI_DSI.exe
+C:\Users\Almir\Desktop\TPI_DSI-20220615T141139Z-001\TPI_DSI\obj\Debug\TPI_DSI.pdb
+C:\Users\Almir\Desktop\TPI_DSI-20220615T141139Z-001\TPI_DSI\bin\Debug\TPI_DSI.exe.config
+C:\Users\Almir\Desktop\TPI_DSI-20220615T141139Z-001\TPI_DSI\bin\Debug\TPI_DSI.exe
+C:\Users\Almir\Desktop\TPI_DSI-20220615T141139Z-001\TPI_DSI\bin\Debug\TPI_DSI.pdb
+C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\bin\Debug\TPI_DSI.exe.config
+C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\bin\Debug\TPI_DSI.exe
+C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\bin\Debug\TPI_DSI.pdb
+C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.csproj.AssemblyReference.cache
+C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.InterfazReserva.resources
+C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.Properties.Resources.resources
+C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.csproj.GenerateResource.cache
+C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.csproj.CoreCompileInputs.cache
+C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.exe
+C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.pdb
