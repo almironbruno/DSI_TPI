@@ -31,3 +31,14 @@ C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.csproj.GenerateResourc
 C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.csproj.CoreCompileInputs.cache
 C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.exe
 C:\Users\Almir\Desktop\FInal.V2\TPI_DSI\obj\Debug\TPI_DSI.pdb
+C:\Users\Almir\Desktop\Libros-Apuntes\DSI_TPI\TPI_DSI\bin\Debug\TPI_DSI.exe.config
+C:\Users\Almir\Desktop\Libros-Apuntes\DSI_TPI\TPI_DSI\bin\Debug\TPI_DSI.exe
+C:\Users\Almir\Desktop\Libros-Apuntes\DSI_TPI\TPI_DSI\bin\Debug\TPI_DSI.pdb
+C:\Users\Almir\Desktop\Libros-Apuntes\DSI_TPI\TPI_DSI\obj\Debug\TPI_DSI.csproj.AssemblyReference.cache
+C:\Users\Almir\Desktop\Libros-Apuntes\DSI_TPI\TPI_DSI\obj\Debug\TPI_DSI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Almir\Desktop\Libros-Apuntes\DSI_TPI\TPI_DSI\obj\Debug\TPI_DSI.InterfazReserva.resources
+C:\Users\Almir\Desktop\Libros-Apuntes\DSI_TPI\TPI_DSI\obj\Debug\TPI_DSI.Properties.Resources.resources
+C:\Users\Almir\Desktop\Libros-Apuntes\DSI_TPI\TPI_DSI\obj\Debug\TPI_DSI.csproj.GenerateResource.cache
+C:\Users\Almir\Desktop\Libros-Apuntes\DSI_TPI\TPI_DSI\obj\Debug\TPI_DSI.csproj.CoreCompileInputs.cache
+C:\Users\Almir\Desktop\Libros-Apuntes\DSI_TPI\TPI_DSI\obj\Debug\TPI_DSI.exe
+C:\Users\Almir\Desktop\Libros-Apuntes\DSI_TPI\TPI_DSI\obj\Debug\TPI_DSI.pdb

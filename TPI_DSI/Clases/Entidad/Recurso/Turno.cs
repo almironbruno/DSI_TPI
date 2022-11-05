@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using TPI_DSI.Interfaces;
 namespace TPI_DSI.Clases
 {
     internal class Turno
@@ -12,7 +12,10 @@ namespace TPI_DSI.Clases
         public DateTime fechaGeneracion { set; get; }
         public DateTime fechaHoraInicio { set; get; }
         public DateTime fechaHoraFin { set; get; }
+
         public List<CambioEstadoTurno> cambioEstadoTurno = new List<CambioEstadoTurno>();
+
+        public EstadoTurno estado;
 
         public bool esFechaValida(DateTime fecha)
         { //Metodo 45: consulta que la fecha de inicio del turno sea mayor a la fecha hora actual 
@@ -20,21 +23,34 @@ namespace TPI_DSI.Clases
         }
 
 
-        public void registrarNuevaReserva(Estado reservado,DateTime fechaDesde)
+        public void registrarNuevaReserva()
         {//Metodo 62: registrar una nueva reserva del turno
             foreach (var unCambioEstado in cambioEstadoTurno)
             {
+                //Metodo 64: sosActual()
                 if (unCambioEstado.esActual())
                 {
-                    unCambioEstado.fechaHorahasta = fechaDesde;//Metodo 64: setFechaHasta
+                    //Metodo 65: setFechaHasta
+                    unCambioEstado.fechaHorahasta = DateTime.Now;
                     break;
                 }
             }
             
-            CambioEstadoTurno nuevo = new CambioEstadoTurno();
-            nuevo.estado = reservado;
-            nuevo.fechaHoraDesde = fechaDesde;
-            cambioEstadoTurno.Add(nuevo);
+            //CambioEstadoTurno nuevo = new CambioEstadoTurno();
+            //nuevo.estado = reservado;
+            //nuevo.fechaHoraDesde = fechaDesde;
+            //cambioEstadoTurno.Add(nuevo);
+        }
+
+        public void añadirCambioEstado(CambioEstadoTurno cambioEstado)
+        {
+            cambioEstadoTurno.Add(cambioEstado);
+        
+        }
+
+        public void setEstadoActual(EstadoTurno estado)
+        {
+            this.estado = estado;
         }
     }
 

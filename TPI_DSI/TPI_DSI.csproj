@@ -51,6 +51,10 @@
     <Compile Include="Clases\Entidad\CambioEstados\CambioEstadoRT.cs" />
     <Compile Include="Clases\Entidad\CambioEstados\CambioEstadoTurno.cs" />
     <Compile Include="Clases\Entidad\Centro\CentroInvestigacion.cs" />
+    <Compile Include="Clases\Estados\Anulado.cs" />
+    <Compile Include="Clases\Estados\Cancelado.cs" />
+    <Compile Include="Clases\Estados\Disponible.cs" />
+    <Compile Include="Clases\Estados\Reservado.cs" />
     <Compile Include="Clases\Interfaz\InterfazMail.cs" />
     <Compile Include="Clases\Entidad\Recurso\Estado.cs" />
     <Compile Include="Clases\Gestor\GestorRecursos.cs" />
@@ -69,6 +73,7 @@
       <DependentUpon>InterfazReserva.cs</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Interfaces\EstadoTurno.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Clases\Interfaz\.Designer.resx">

@@ -233,7 +233,7 @@ namespace TPI_DSI.Clases
                     {
                         if (j.esActual())
                         {
-                            estado.Add(j.estado.nombre);
+                            estado.Add(j.estado.getNombre());
                         }
                     } 
                 }
@@ -245,15 +245,16 @@ namespace TPI_DSI.Clases
         }
 
         public void tomarConfirmacion()
-        { //Metodo 60: toma la confirmacion con todos los datos 
+        { //Metodo 61: toma la confirmacion con todos los datos 
             
-           Estado estadoReservado = buscarEstadoReservado();
-           turnoSeleccionado.registrarNuevaReserva(estadoReservado,DateTime.Now);
+           //EstadoTurno estadoReservado = buscarEstadoReservado(); <-- Se va
+           turnoSeleccionado.registrarNuevaReserva();
            generarNotificacion();
            asignacionCientificoActivo.setearTurno(turnoSeleccionado); // metodo 66
             
             finCU();
         }
+       
         private Estado buscarEstadoReservado()
         {   //Metodo 61: Busca el estado Reservado y lo retorna, en caso contrario, retorna un estado vacio
             Estado estadoReservado = new Estado();
